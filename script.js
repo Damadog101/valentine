@@ -21,11 +21,3 @@ no.addEventListener("click", () => {
 	alertTwo.classList.add("noDisplay");
 	alertThree.classList.remove("noDisplay");
 });
-// yes.addEventListener("click", () => {
-// 	alertOne.classList.add("noDisplay");
-// 	alertTwo.classList.remove("noDisplay");
-// });
-// yes.addEventListener("click", () => {
-// 	alertOne.classList.add("noDisplay");
-// 	alertTwo.classList.remove("noDisplay");
-// });
